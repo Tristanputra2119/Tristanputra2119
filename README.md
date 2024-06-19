@@ -8,7 +8,7 @@
 
 ## Education:
 
-### 1. [SMKN 1 DENPASAR](https://www.smkn1denpasar.sch.id/) | Student | Denpasar `2021-now`
+### 1. [SMKN 1 DENPASAR](https://www.smkn1denpasar.sch.id/) | Student | Denpasar `Jun'2021 - May'2024`
    - Software Engineering Student.
 
 ## Internship Experience:
