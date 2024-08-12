@@ -34,7 +34,7 @@
 [<img align="left" alt="Bootstrap" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Git" width="30px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="PHP" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Nextjs" width="50ox" src="https://seeklogo.com/images/N/next-js-logo-7929BCD36F-seeklogo.com.png" style="padding-right:10px;" />][webdev]
+
 
 
 [webdev]: # "Web Development"
