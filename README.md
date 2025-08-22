@@ -1,6 +1,6 @@
 # Hi There 👋, I'm Made Ngurah Tristan Putra
 
-- 🌱 I’m currently learning **Laravel,Next Js**
+- 🌱 I’m currently learning **Laravel,Next Js And React.js**
 - 👯 I’m looking to collaborate on **Web Development**
 - 💬 Ask me about **Anything**
 - 😊 My Portofolio Website Available At Here : tristanputra.my.id
