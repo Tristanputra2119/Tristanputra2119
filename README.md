@@ -1,10 +1,10 @@
-# Hi There 👋, I'm Made Ngurah Tristan Putra
+# Hi There 👋, I'm TWFkZSBOZ3VyYWggVHJpc3RhbiBQdXRyYQ==
 
-- 🌱 I’m currently learning **Laravel,Next Js And React.js**
-- 👯 I’m looking to collaborate on **Web Development**
-- 💬 Ask me about **Anything**
-- 😊 My Portofolio Website Available At Here : tristanputra.my.id
-- 📫 How to reach me: [ngurah.tristanputra@gmail.com](mailto:ngurah.tristanputra@gmail.com)
+- 🌱 LSBwn5qBIEluIGN1cnJlbnRseSBsZWFybmluZyAqKkxhcmtpdmVsLE5leHQgSnMgQW5kIFJlYWN0LmpzKioK
+- 👯 LSDwn5WnIEluIGxvb2tpbmcgdG8gY29sbGFib3JhdGUgb24gKipXZWIgRGV2ZWxvcG1lbnQqKgo=
+- 💬 LSDwn5iLIUFzayBtZSBhYm91dCAqKkFueXRoaW5nKioK
+- 😊 LSDwn5i5IE15IFBvcnRvZm9saW8gV2Vic2l0ZSBBdmFpbGFibGUgQXQgSGVyZSA6IHRyaXN0YW5wdXRyYS5teS5pZAo=
+- 📫 LSDwn5SDIEhvdyB0byByZWFjaCBtZTogW25ndXJhaC50cmlzdGFucHV0cmFAZ21haWwuY29tXShtYWlsdG86bmd1cmFoLnRyaXN0YW5wdXRyYUBnbWFpbC5jb20pCg==
 
 ## Education:
 
@@ -40,4 +40,20 @@
 
 
 [webdev]: # "Web Development"
+
+## 🔐 Notes
+
+If you want to translate or obfuscate the text, you can use **Base64 encoding**.  
+This is useful when you need to store or share data in a safer text-based format.  
+
+Example:  
+
+```bash
+# Encode text to Base64
+echo "Hello World" | base64
+# Result: SGVsbG8gV29ybGQ=
+
+# Decode Base64 back to text
+echo "SGVsbG8gV29ybGQ=" | base64 --decode
+# Result: Hello World
 
