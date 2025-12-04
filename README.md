@@ -1,8 +1,7 @@
-# Hi There 👋, TWFkZSBOZ3VyYWggVHJpc3RhbiBQdXRyYQ==
+# Hi There 👋, I'M Made Ngurah Tristan Putra
 
-- 🌱 I’m currently learning TGFyYXZlbCwgTmV4dCBKcyBBbmQgUmVhY3QuanM=
-- 👯 I’m looking to collaborate on KipXZWIgRGV2ZWxvcG1lbnQqKg==
-- 💬 Ask me about QW55dGhpbmc=
+- 🌱 I’m currently learning Unity game engine and Web3
+- 💬 Ask me about Anything
 - 😊 My Portofolio Website Available At Here : tristanputra.my.id
 - 📫 How to reach me: [ngurah.tristanputra@gmail.com](mailto:ngurah.tristanputra@gmail.com)
 
@@ -41,20 +40,3 @@
 
 [webdev]: # "Web Development"
 
-<br>
-
-## 🔐 Notes
-
-If you want to translate or obfuscate the text, you can use **Base64 encoding**.  
-This is useful when you need to store or share data in a safer text-based format.  
-
-Example:
-
-```bash
-# Encode text to Base64
-echo "Hello World" | base64
-# Result: SGVsbG8gV29ybGQ=
-
-# Decode Base64 back to text
-echo "SGVsbG8gV29ybGQ=" | base64 --decode
-# Result: Hello World
